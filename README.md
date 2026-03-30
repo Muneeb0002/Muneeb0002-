@@ -1,13 +1,3 @@
- Top Repositories
- 
- 
-
-📊 GitHub Activity & Stats 
-
-IN DO JAGAO PAR ICONS SHOW NHI HORAHE HAII AUR NHI REPO SHOW HORAHI HAII TOP REPOSITORIES MAI  
-
-
-
 <h1 align="center">Hi 👋, I'm Muneeb Sheikh</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
