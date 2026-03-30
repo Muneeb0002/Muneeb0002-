@@ -21,13 +21,24 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+</p>
+
 > **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js, Redux Toolkit, TanStack Query, React Native, Expo CLI, Node.js, Express, MongoDB, PostgreSQL, Supabase, Firebase, Postman, Swagger, Git & GitHub.
 
 ---
 
-### 🏆 GitHub Trophies
+### 📂 Top Repositories
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muneeb0002&theme=tokyonight&no-bg=true&margin-w=15" alt="Muneeb0002" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Gradiant&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Inventry_Management&theme=tokyonight" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=E-Learning-App&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=MS-Portfolio&theme=tokyonight" />
 </p>
 
 ---
