@@ -25,9 +25,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muneeb0002&theme=tokyonight&no-bg=true&margin-w=15" alt="Muneeb0002" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muneeb0002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb0002&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
