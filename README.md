@@ -17,11 +17,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,tailwind,bootstrap,git,github,postman,py,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,tailwind,bootstrap,git,github,postman,py,figma,reactnative,query" />
   </a>
 </p>
 
-> **Additional Skills:** TanStack Query (React Query), React Native, Expo CLI, Swagger API Documentation.
+> **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js, Redux Toolkit, TanStack Query, React Native, Expo CLI, Node.js, Express, MongoDB, PostgreSQL, Supabase, Firebase, Postman, Swagger, Git & GitHub.
 
 ---
 
