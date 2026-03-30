@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Muneeb0002&style=flat-square&color=blue" alt="Muneeb0002" />
+  <img src="https://komarev.com/ghpvc/?username=Muneeb0002&style=flat-square&color=blue" />
 </p>
 
 - 🔭 I’m currently working on **Gradient (AI-powered Exam Intelligence System)**
@@ -15,30 +15,22 @@
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,tailwind,bootstrap,git,github,postman,py,figma,reactnative,query" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,nodejs,express,mongodb,postgres,supabase,firebase,tailwind,bootstrap,git,github,postman,py,figma,reactnative" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-</p>
-
-> **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js, Redux Toolkit, TanStack Query, React Native, Expo CLI, Node.js, Express, MongoDB, PostgreSQL, Supabase, Firebase, Postman, Swagger, Git & GitHub.
 
 ---
 
 ### 📂 Top Repositories
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Gradiant&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Inventry_Management&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Gradiant&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=Inventry_Management&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=E-Learning-App&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=MS-Portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=E-Learning-App&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeb0002&repo=MS-Portfolio&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -46,25 +38,28 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muneeb0002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb0002&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muneeb0002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb0002&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb0002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Muneeb0002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/muneeb-sheikh-18b2b8320/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:smmuneeb999@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muneeb-sheikh-18b2b8320/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:smmuneeb999@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
